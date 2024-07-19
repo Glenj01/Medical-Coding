@@ -26,3 +26,6 @@ I would like to acknowledge that the pre-trained model, and some of the code use
 * Download the ICD to SNOMED maps and rename them ICD_SNOMED_1TO1 and ICD_SNOMED_1TOM accordingly, placing them in the ../HLAN folder.
 * Place the medical document in the 'noteInput.txt' folder and run the 'runTest.py' program in ../HLAN. This will output its predicted results and return the embeddings in the ../embeddings folder. 
 
+# Cite us
+@misc{glen2024comparativestudyautomaticcoding, title={A Comparative Study on Automatic Coding of Medical Letters with Explainability}, author={Jamie Glen and Lifeng Han and Paul Rayson and Goran Nenadic}, year={2024}, eprint={2407.13638}, archivePrefix={arXiv}, primaryClass={cs.CL}, url={https://arxiv.org/abs/2407.13638}, }
+
