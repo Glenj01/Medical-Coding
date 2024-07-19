@@ -1,6 +1,6 @@
 # Explainable Automated Medical Coding
 
-This is the code utilised in the study A Comparative Study on Automatic Coding of Medical Letters with Explainability (). 
+This is the code utilised in the study A Comparative Study on Automatic Coding of Medical Letters with Explainability, Jamie Glen and Lifeng Han and Paul Rayson and Goran Nenadic, 2024, 2407.13638, arXiv, cs.CL, https://arxiv.org/abs/2407.13638 
 
 I would like to acknowledge that the pre-trained model, and some of the code used to run it, is from the paper Dong, H., Suárez-Paniagua, V., Whiteley, W., Wu, H. (2021) Explainable automated coding of clinical notes using hierarchical label-wise attention networks and label embedding initialisation, Journal of Biomedical Informatics, Volume 116, 2021, 103728, ISSN 1532-0464. https://doi.org/10.1016/j.jbi.2021.103728 
 
